@@ -21,6 +21,8 @@ Aqui estão as principais ferramentas que utilizo para construir meus fluxos:
 
 Cada pasta neste repositório representa um projeto independente com sua própria lógica e documentação:
 
+**AGENTE DANFE E G.SHEET**: A automação foi projetada para eliminar processos manuais de triagem, classificação e lançamento de notas fiscais, garantindo organização, rastreabilidade e escalabilidade.
+
  **CSS GERADOR COM IA**: Transformar comandos de voz/texto em código HTML/CSS real.
  
  **AGENTE IA GEMINI**: Triagem e priorização automática de leads/clientes..

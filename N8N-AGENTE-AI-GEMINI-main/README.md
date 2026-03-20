@@ -63,7 +63,7 @@ Todas as chaves, tokens e URLs devem ser configuradas diretamente no n8n.
 
 ## 📸 Preview
 
-> <img width="1577" height="712" alt="image" src="https://github.com/user-attachments/assets/cc5d9b33-8d9e-4572-8791-bff4ec163d39" />
+<img width="1577" height="712" alt="workflow agente IA Gemini GMAIL TELEGRAM" src="https://github.com/user-attachments/assets/6de36dad-3ece-4287-b185-774efee031d4" />
 
 
 ---

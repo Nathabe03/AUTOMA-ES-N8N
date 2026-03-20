@@ -32,5 +32,5 @@ Configure a chave: No campo indicado "API KEY", cole a sua chave gsk_....
 
 Gere seu código: Descreva o elemento desejado e clique em Gerar Código ⚡.
 _______________________________________________________________________________________________________________________________________________________
-<img width="1065" height="688" alt="image" src="https://github.com/user-attachments/assets/12ee74f4-1ca8-46b4-b51c-7fedf3ddd9e5" />
+<img width="1065" height="688" alt="img css gerador IA" src="https://github.com/user-attachments/assets/c346a8c3-469f-4569-9780-f26ba293d33a" />
 

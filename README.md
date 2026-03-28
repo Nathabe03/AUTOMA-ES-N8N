@@ -1,4 +1,5 @@
 # 🤖 Meus Projetos de Automação & IA
+https://github.com/Nathabe03/AUTOMA-ES-N8N
 
 Este repositório é o meu **Hub Central de Automações**. Aqui reúno soluções desenvolvidas para otimizar processos, integrar APIs e aplicar Inteligência Artificial em fluxos de trabalho reais.
 
@@ -10,7 +11,6 @@ Aqui estão as principais ferramentas que utilizo para construir meus fluxos:
 ![n8n](https://img.shields.io/badge/n8n-FF6C5C?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75E5?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

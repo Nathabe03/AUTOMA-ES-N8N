@@ -1,4 +1,5 @@
 # 🤖 Meus Projetos de Automação & IA
+https://github.com/Nathabe03/AUTOMA-ES-N8N
 
 Este repositório é o meu **Hub Central de Automações**. Aqui reúno soluções desenvolvidas para otimizar processos, integrar APIs e aplicar Inteligência Artificial em fluxos de trabalho reais.
 
